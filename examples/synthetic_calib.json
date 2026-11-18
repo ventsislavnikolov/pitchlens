@@ -1,0 +1,46 @@
+{
+  "points": [
+    {
+      "name": "corner_far_left",
+      "image": [
+        250.0,
+        220.0
+      ]
+    },
+    {
+      "name": "halfway_far",
+      "image": [
+        1299.6,
+        228.7
+      ]
+    },
+    {
+      "name": "halfway_near",
+      "image": [
+        1448.9,
+        897.5
+      ]
+    },
+    {
+      "name": "left_box_near_corner",
+      "image": [
+        346.9,
+        687.5
+      ]
+    },
+    {
+      "name": "left_box_far_corner",
+      "image": [
+        535.2,
+        310.9
+      ]
+    },
+    {
+      "name": "centre_circle_left",
+      "image": [
+        1126.3,
+        477.3
+      ]
+    }
+  ]
+}
